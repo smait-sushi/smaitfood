@@ -71,21 +71,16 @@ We welcome contributions to improve our website! If you have suggestions for bug
 
 Have questions or want to make a reservation?
 
-*   **Address:** [Your Restaurant Address, Lisbon, Portugal]
+*   **Address:** CC de Sant'Ana 11, 1150-052 Lisboa
 *   **Phone:** 920793113
-*   **Email:** [Your Email Address]
+*   **Email:** smaitfood@gmail.com
 
 **Follow us on social media for the latest updates and offers!**
 *   [Instagram](#)
 *   [Facebook](#)
 
-## 📄 License
 
-This project is licensed under the [Your License] License - see the [LICENSE.md](LICENSE.md) file for details.
 
----
-
-### **SEO Keywords**
 
 *Best sushi restaurant in Lisbon, Portuguese sushi, fresh sushi Lisbon, authentic Japanese food Lisbon, Savana Sushi Smait, sushi delivery Lisbon, best food in Lisbon.*
 
